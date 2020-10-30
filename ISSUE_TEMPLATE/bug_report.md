@@ -8,11 +8,11 @@ assignees: ''
 ---
 ### Jira issue
 
-Reference to a jira issue (if applicable): FAC-<number>
+Reference to a jira issue (if applicable): FAC-\<number\>
 
 ### RT ticket
 
-Reference to a RT ticket (if applicable): <URL to RT-ticket>
+Reference to a RT ticket (if applicable): \<URL to RT-ticket\>
 
 ### Describe the bug
 
