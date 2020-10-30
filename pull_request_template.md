@@ -1,15 +1,15 @@
 ---
-name: "\U0001F41B Bug fix"
-about: Fix a bug
+name: "Pull request"
+about: Merge a pull request
 
 ---
 
 
 ## Summary
 
-closes #[issue number]
-references jira issue FAC-[issue-number]
-relates to [link to RT issue]
+* Closes #[issue number]
+* References jira issue FAC-[issue-number]
+* Relates to [link to RT issue]
 
 ## Details
 
