@@ -4,7 +4,7 @@ You might be interested in our collection of [community resources on GitHub](htt
 
 Follow us on [twitter](https://twitter.com/safespring) and [linkedin](https://www.linkedin.com/company/safespring/)
 
-We have some technical content on our [blog](https://safespring.com/blogg)
+We have some technical content on our [blog](https://safespring.com/blogg/)
 
 Find our technical documentation [here](https://docs.safespring.com)
 
